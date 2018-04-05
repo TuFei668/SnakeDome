@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 224621324067517138}
   - component: {fileID: 222236021282629222}
   - component: {fileID: 114634489353171634}
-  - component: {fileID: 114779509183336816}
+  - component: {fileID: 114988551446899332}
   m_Layer: 5
   m_Name: UIMainPage
   m_TagString: Untagged
@@ -56,7 +56,7 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
---- !u!114 &114779509183336816
+--- !u!114 &114988551446899332
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -64,7 +64,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1210790829299614}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 757783347, guid: b075d6296b2181a479a7479f97cb6598, type: 3}
+  m_Script: {fileID: 11500000, guid: ba6812df2f561469a9bbb6fcd6d615c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_openAniClip: {fileID: 0}
